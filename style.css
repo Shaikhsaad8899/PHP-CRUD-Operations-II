@@ -1,0 +1,13 @@
+.form-control {
+    width: 300px !important;
+    margin: 10px;
+  }
+  .form-group{
+    display: inline-flex;
+  }
+  .container{
+text-align: center;
+  }
+  form{
+    text-align: center;
+  }
